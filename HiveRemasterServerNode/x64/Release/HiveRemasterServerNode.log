@@ -1,0 +1,14 @@
+﻿  HiveRemasterServerNode.cpp
+C:\Users\xp\Desktop\Programiranje\ProjektiCpp\HiveRemasterServerVS2022\HiveRemasterServerNode\HiveRemasterServerNode\HiveRemasterServerNode.cpp(105,11): warning C4101: 'message': unreferenced local variable
+C:\Users\xp\Desktop\Programiranje\ProjektiCpp\HiveRemasterServerVS2022\HiveRemasterServerNode\HiveRemasterServerNode\HiveRemasterServerNode.cpp(25,9): warning C4101: 'option': unreferenced local variable
+C:\Users\xp\Desktop\Programiranje\ProjektiCpp\HiveRemasterServerVS2022\HiveRemasterServerNode\HiveRemasterServerNode\HiveRemasterServerNode.cpp(24,11): warning C4101: 'lastError': unreferenced local variable
+  HiveServerNode.cpp
+C:\Users\xp\Desktop\Programiranje\ProjektiCpp\HiveRemasterServerVS2022\HiveRemasterServerNode\HiveRemasterServerNode\HiveServerNode.cpp(85,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\xp\Desktop\Programiranje\ProjektiCpp\HiveRemasterServerVS2022\HiveRemasterServerNode\HiveRemasterServerNode\HiveServerNode.cpp(91,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\xp\Desktop\Programiranje\ProjektiCpp\HiveRemasterServerVS2022\HiveRemasterServerNode\HiveRemasterServerNode\HiveServerNode.cpp(97,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\xp\Desktop\Programiranje\ProjektiCpp\HiveRemasterServerVS2022\HiveRemasterServerNode\HiveRemasterServerNode\HiveServerNode.cpp(118,32): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 203 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  HiveRemasterServerNode.vcxproj -> C:\Users\xp\Desktop\Programiranje\ProjektiCpp\HiveRemasterServerVS2022\HiveRemasterServerNode\x64\Release\HiveRemasterServerNode.exe
